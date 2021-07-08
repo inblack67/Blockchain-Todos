@@ -1,0 +1,15 @@
+{
+  "name": "todos-solidity",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "materialize-css": "^1.0.0",
+    "nodemon": "^2.0.9",
+    "truffle": "^5.3.14",
+    "truffle-contract": "^4.0.31"
+  }
+}

@@ -54,3 +54,8 @@ Result {
 - List tasks in the console
 - List tasks in the client side application
 - List tasks in the test
+
+### Integrating Blockchain with Frontend
+
+- Connect App to Blockchain => Web3.js
+- Connect Browser to Blockchain => metamask (Ethereum Wallet)
